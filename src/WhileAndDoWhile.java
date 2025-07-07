@@ -20,7 +20,7 @@ public class WhileAndDoWhile {
 
     public static void main(String[] args) {
         WhileAndDoWhile instance = new WhileAndDoWhile();
-//        instance.demoWhile();
+        instance.demoWhile();
 
         instance.demoDoWhile();
     }
